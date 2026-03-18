@@ -1,7 +1,7 @@
 # chance-de-cancelamento
 
 ## 📌 Objetivo
-Este repositório contém uma análise ou modelo para estimar a **chance de cancelamento** (churn) de clientes com base em dados históricos. A ideia é ajudar a identificar clientes com maior risco de cancelar para orientar ações de retenção.
+Esse é um notebook que fiz para estimar a **chance de cancelamento** (churn) de clientes com base em dados históricos. A ideia é ajudar a identificar clientes com maior risco de cancelar para orientar ações de retenção.
 
 ## 🧠 Conteúdo
 - `churn.ipynb`: notebook principal com exploração de dados, engenharia de features, modelagem e avaliação de resultados.
